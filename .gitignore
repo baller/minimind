@@ -1,3 +1,5 @@
 /model/__pycache__
 /dataset
 /out
+/trainer/__pycache__
+/trainer/wandb
